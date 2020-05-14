@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3252529284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 30cda90e334d92235578c27337a849e2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2164263bd948184a9373784f776f453a
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Materials/Test/Spheres.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/Oculus/VR/Materials/GearVrController/GearVrControllerMat_128.mat
+- Assets/Oculus/VR/Meshes/OculusGoController/Materials/OculusGoControllerMat.mat
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/Oculus/VR/Meshes/GearVrController/Materials/malibuController_color_1024.mat
+Dependencies:
+- D:/Game Development/School/Jaar 4/Gradation/Graduation Project Git/VR_MRI_Prototype/OVRAssetBundles/OVRMasterBundle/asset_png0
+- D:/Game Development/School/Jaar 4/Gradation/Graduation Project Git/VR_MRI_Prototype/OVRAssetBundles/OVRMasterBundle/asset_tif0
+- D:/Game Development/School/Jaar 4/Gradation/Graduation Project Git/VR_MRI_Prototype/OVRAssetBundles/OVRMasterBundle/asset_tga0

@@ -1,0 +1,40 @@
+ManifestFileVersion: 0
+CRC: 481549144
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 838fa6ed335a12d6c125c9b6a53a3ac7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ef49f4d49e6e1ea799658f723c29f9be
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/Oculus/VR/Meshes/GearVrController/GearVrController.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/Oculus/VR/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/Oculus/VR/Meshes/OculusGoController/OculusGoController.fbx
+Dependencies:
+- D:/Game Development/School/Jaar 4/Gradation/Graduation Project Git/VR_MRI_Prototype/OVRAssetBundles/OVRMasterBundle/asset_mat0
